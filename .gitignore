@@ -1,0 +1,59 @@
+# Node modules
+node_modules/
+
+# Bun files (Jika Anda menggunakan Bun)
+bun.lockb
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Vercel
+.vercel
+
+# Build outputs
+dist/
+build/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+yarn-error.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (VSCode, IntelliJ, dll)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Coverage files
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Bun PM cache
+.bun
